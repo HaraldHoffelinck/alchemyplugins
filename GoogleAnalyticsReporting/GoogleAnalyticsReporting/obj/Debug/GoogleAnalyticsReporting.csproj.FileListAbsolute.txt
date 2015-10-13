@@ -1,0 +1,15 @@
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\GoogleAnalyticsReporting.dll
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\GoogleAnalyticsReporting.pdb
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\Alchemy4Tridion.Plugins.dll
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\Newtonsoft.Json.dll
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\System.Net.Http.Formatting.dll
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\System.Web.Http.dll
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\Alchemy4Tridion.Plugins.xml
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\Newtonsoft.Json.xml
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\System.Net.Http.Formatting.xml
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\System.Web.Http.xml
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\obj\Debug\GoogleAnalyticsReporting.csprojResolveAssemblyReference.cache
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\obj\Debug\GoogleAnalyticsReporting.dll
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\obj\Debug\GoogleAnalyticsReporting.pdb
+C:\SVN\GoogleAnalyticsReporting\GoogleAnalyticsReporting\bin\Debug\GoogleAnalyticsReporting.dll.config

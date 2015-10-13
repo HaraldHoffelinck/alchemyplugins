@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.alchemywebstore.com/">
+  <id>55b7f4aee4de020470ad52ab</id>
+  <description><![CDATA[This plugin shows google analytics information for one or more publications in the publications property dialog.]]></description>
+  <name>GoogleAnalyticsReporting</name>
+  <version>1.0.0.0</version>
+  <versionId>55b7f4aee4de020470ad52ac</versionId>
+</plugin>
